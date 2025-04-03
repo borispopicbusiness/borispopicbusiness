@@ -7,9 +7,8 @@ I specialize in Java, Spring, SQL, and containerization, focusing on building sc
 
 💼 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/boris-popic-41670443)
 
-Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <!--
 **borispopicbusiness/borispopicbusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
