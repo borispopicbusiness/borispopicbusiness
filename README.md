@@ -9,31 +9,31 @@ I specialize in Java, Spring, SQL, and containerization, focusing on building sc
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h2>Languages</h2>
+<h4>Languages</h4>
 <p>• Java<br>• Python<br>• Node.js</p>
 
-<h2>Frameworks</h2>
+<h4>Frameworks</h4>
 <p>• Django<br>• Spring</p>
 
-<h2>ORM / Data Access</h2>
+<h4>ORM / Data Access</h4>
 <p>• Hibernate</p>
 
-<h2>Cloud / DevOps / Infrastructure</h2>
+<h4>Cloud / DevOps / Infrastructure</h4>
 <p>• AWS<br>• Docker<br>• Kubernetes<br>• Jenkins<br>• Nginx<br>• Linux</p>
 
-<h2>Databases</h2>
+<h4>Databases</h4>
 <p>• MongoDB<br>• MySQL<br>• PostgreSQL<br>• Redis</p>
 
-<h2>Messaging / Streaming / API</h2>
+<h4>Messaging / Streaming / API</h4>
 <p>• Kafka<br>• RabbitMQ<br>• GraphQL</p>
 
-<h2>Search</h2>
+<h4>Search</h4>
 <p>• Elasticsearch<br>• Kibana</p>
 
-<h2>Monitoring / Observability</h2>
+<h4>Monitoring / Observability</h4>
 <p>• Prometheus<br>• Grafana</p>
 
-<h2>Version Control</h2>
+<h4>Version Control</h4>
 <p>• Git</p>
 
 <p align="left">
