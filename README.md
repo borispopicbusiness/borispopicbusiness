@@ -8,6 +8,34 @@ I specialize in Java, Spring, SQL, and containerization, focusing on building sc
 💼 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/boris-popic-41670443)
 
 <h3 align="left">Languages and Tools:</h3>
+
+<h2>Languages</h2>
+<p>• Java<br>• Python<br>• Node.js</p>
+
+<h2>Frameworks</h2>
+<p>• Django<br>• Spring</p>
+
+<h2>ORM / Data Access</h2>
+<p>• Hibernate</p>
+
+<h2>Cloud / DevOps / Infrastructure</h2>
+<p>• AWS<br>• Docker<br>• Kubernetes<br>• Jenkins<br>• Nginx<br>• Linux</p>
+
+<h2>Databases</h2>
+<p>• MongoDB<br>• MySQL<br>• PostgreSQL<br>• Redis</p>
+
+<h2>Messaging / Streaming / API</h2>
+<p>• Kafka<br>• RabbitMQ<br>• GraphQL</p>
+
+<h2>Search</h2>
+<p>• Elasticsearch<br>• Kibana</p>
+
+<h2>Monitoring / Observability</h2>
+<p>• Prometheus<br>• Grafana</p>
+
+<h2>Version Control</h2>
+<p>• Git</p>
+
 <p align="left">
   <!-- Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
