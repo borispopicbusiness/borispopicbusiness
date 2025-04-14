@@ -5,7 +5,32 @@ I specialize in Java, Spring, SQL, and containerization, focusing on building sc
 
 🚀 Explore my time tracker app and see how I build robust applications: [![My Main Project](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)]([https://github.com/yourusername/your-repo](https://github.com/borispopicbusiness/timetracker))
 
-💼 Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/boris-popic-41670443)
+## 🚀 Projects
+
+### 🔹 capitain.io
+**FinTech Web Application**  
+- Developed an event-driven **CSV import microservice** with Kafka, containerized with Docker  
+- Designed dynamic database schemas and flexible CSV parsing templates (manual, auto-generated, AI-assisted)  
+- Improved the **Mailing microservice** by integrating Elasticsearch for advanced email indexing and search  
+
+### 🔹 PixelBoxx DAM  
+**Digital Asset Management Platform**  
+- Designed and implemented the **IPim Validator** for metadata and digital asset validation  
+- Led improvements in code coverage and standardized testing practices across the platform  
+
+### 🔹 ConstructionLog  
+**Cloud-Based Construction Reporting Tool**  
+- Developed and integrated features for **report exporting, emailing, and cloud storage** within a microservices architecture  
+- Leveraged **AWS S3** for secure and scalable storage of daily construction reports  
+- Contributed to bug fixes and overall system stability during the development lifecycle  
+- Resulted in a more efficient, automated process for generating and sharing field reports  
+
+### 🔹 Magacioner  
+**Warehouse & Sales Management System**  
+- Contributed to features for **travel order generation** and **inventory tracking** across multiple warehouse locations  
+- Assisted in debugging the admin panel with a focus on **role-based permissions** and **access control**  
+- Improved unit and integration tests to enhance **code reliability** and **maintainability**, reducing deployment errors  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
