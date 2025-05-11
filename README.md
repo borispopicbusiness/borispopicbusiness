@@ -3,8 +3,6 @@
 My name is Boris, and I am a Java backend engineer. This is my GitHub profile, where you can find my Java projects and code.
 I specialize in Java, Spring, SQL, and containerization, focusing on building scalable, high-performance containerized microservices.
 
-🚀 Explore my time tracker app and see how I build robust applications: [![My Main Project](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)]([https://github.com/yourusername/your-repo](https://github.com/borispopicbusiness/timetracker))
-
 ## 🚀 Projects
 
 ### 🔹 capitain.io
