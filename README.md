@@ -33,22 +33,25 @@ My name is Boris, and I am a Java backend engineer. This is my GitHub profile, w
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages</h4>
-<p>• Java<br>• Python<br>• Node.js</p>
+<p>• Java<br>• Python<br>• Node.js<br>• HTML<br>• CSS</p>
 
-<h4>Frameworks</h4>
-<p>• Django<br>• Spring</p>
+<h4>Build Tools</h4>
+<p>• Maven<br>• Gradle<br>• Ivy</p>
 
-<h4>ORM / Data Access</h4>
-<p>• Hibernate</p>
+<h4>Frameworks / Libraries</h4>
+<p>• Django<br>• Spring Boot<br>• Spring Framework<br>• Angular<br>• Vue.js<br>• JUnit<br>• Mockito<br>• EasyMock</p>
 
-<h4>Cloud / DevOps / Infrastructure</h4>
-<p>• AWS<br>• Docker<br>• Kubernetes<br>• Jenkins<br>• Nginx<br>• Linux</p>
+<h4>Messaging / Streaming / API</h4>
+<p>• Kafka<br>• RabbitMQ<br>• Avro<br>• REST<br>• GraphQL</p>
+
+<h4>ORM / Data Access / Database Migration/Version Control Tools</h4>
+<p>• Hibernate<br>• FlyWay<br>• Liquibase</p>
 
 <h4>Databases</h4>
 <p>• MongoDB<br>• MySQL<br>• PostgreSQL<br>• Redis</p>
 
-<h4>Messaging / Streaming / API</h4>
-<p>• Kafka<br>• RabbitMQ<br>• GraphQL</p>
+<h4>Cloud / DevOps / Infrastructure</h4>
+<p>• AWS<br>• Docker<br>• Kubernetes<br>• Helm<br>• Jenkins<br>• ArgoCD<br>• GitLab CI/CD<br>• Nginx<br>• Linux</p>
 
 <h4>Search</h4>
 <p>• Elasticsearch<br>• Kibana</p>
