@@ -1,33 +1,33 @@
 ## Hi I'm Boris 👋
 
-My name is Boris, and I am a Java backend engineer. This is my GitHub profile, where you can find my Java projects and code.
-I specialize in Java, Spring, SQL, and containerization, focusing on building scalable, high-performance containerized microservices.
+My name is Boris, and I am a Java backend engineer. This is my GitHub profile, where you can find my Java projects and code. I specialize in Java, Spring, SQL, and containerization, focusing on building scalable, high-performance containerized microservices.
 
 ## 🚀 Projects
 
 ### 🔹 capitain.io
-**FinTech Web Application**  
-- Developed an event-driven **CSV import microservice** with Kafka, containerized with Docker  
-- Designed dynamic database schemas and flexible CSV parsing templates (manual, auto-generated, AI-assisted)  
-- Improved the **Mailing microservice** by integrating Elasticsearch for advanced email indexing and search  
+**FinTech Web Application**
+- Developed **CSV import microservice** with an event-driven architecture, integrating it with existing microservices and implementing **Kafka** for reliable messaging
+- Designed the **PostgreSQL database schema** and a **flexible CSV template structure** (predefined, auto-generated, AI-assisted), enabling faster template creation and efficient CSV content parsing and import
+- Ensured **containerization with Docker**, performed code reviews improved **Mailing microservice** for better notifications, and implemented **Elasticsearch** indexing for emails and attachments to enhance search and retrieval
 
 ### 🔹 PixelBoxx DAM  
-**Digital Asset Management Platform**  
-- Designed and implemented the **IPim Validator** for metadata and digital asset validation  
-- Led improvements in code coverage and standardized testing practices across the platform  
+**Digital Asset Management Platform**
+- Designed and implemented the **IPim Validator** for metadata and digital asset validation
+- Improvements in code coverage and standardized testing practices across the platform
+- Collaborated with Angular frontend developers and QA to ensure Date&Time field consistency, improving overall system reliability
 
 ### 🔹 ConstructionLog  
 **Cloud-Based Construction Reporting Tool**  
-- Developed and integrated features for **report exporting, emailing, and cloud storage** within a microservices architecture  
-- Leveraged **AWS S3** for secure and scalable storage of daily construction reports  
-- Contributed to bug fixes and overall system stability during the development lifecycle  
-- Resulted in a more efficient, automated process for generating and sharing field reports  
+- Developed and integrated features for **report exporting, emailing, and cloud storage** within a microservices architecture
+- Leveraged **AWS S3** for secure and scalable storage of daily construction reports
+- Contributed to bug fixes and overall system stability during the development lifecycle
+- Resulted in a more efficient, automated process for generating and sharing field reports
 
-### 🔹 Magacioner  
+### 🔹 Warehouse ecosystem
 **Warehouse & Sales Management System**  
-- Contributed to features for **travel order generation** and **inventory tracking** across multiple warehouse locations  
-- Assisted in debugging the admin panel with a focus on **role-based permissions** and **access control**  
-- Improved unit and integration tests to enhance **code reliability** and **maintainability**, reducing deployment errors  
+- Maintained and enhanced the warehouse information system by developing **REST** endpoints (**Java, Spring Boot, Hibernate**), fixing bugs, and optimizing queries against AWS RDS databases 
+- Assisted in **transitioning backend services from GraphQL to REST** and contributed to event-driven features with Apache Kafka for near real-time stock synchronization across warehouses
+- Improved reliability and delivery by writing unit/integration tests and supporting deployments with **Docker, GitLab CI/CD**
 
 
 <h3 align="left">Languages and Tools:</h3>
