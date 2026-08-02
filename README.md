@@ -4,6 +4,12 @@ My name is Boris, and I am a Java backend engineer. This is my GitHub profile, w
 
 ## 🚀 Projects
 
+### 🔹 NAR2/KareFund pension platform
+**Pension fund platform**
+- Developed and enhanced pension and insurance platform features using Java, Spring Framework, Hibernate, Oracle, SQL, and HQL, including First Access and Libro Aderenti (Clients Book) functionalities.
+- Resolved production issues involving Oracle, Hibernate, JasperReports, and AWS S3, improving application stability and document-generation processes.
+- Optimized Oracle SQL/HQL queries and introduced pagination, reducing response times from 5+ seconds to under 0.5 seconds and significantly lowering payload sizes.
+
 ### 🔹 capitain.io
 **FinTech Web Application**
 - Developed **CSV import microservice** with an event-driven architecture, integrating it with existing microservices and implementing **Kafka** for reliable messaging
@@ -109,4 +115,13 @@ My name is Boris, and I am a Java backend engineer. This is my GitHub profile, w
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/></td>
   </tr>
+
+<tr>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40"/></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/></td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/></td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/></td>
+  <td></td>
+  <td></td>
+</tr>
 </table>
